@@ -1,1 +1,0 @@
-# Hollywood_Box_Office_Tragedy
