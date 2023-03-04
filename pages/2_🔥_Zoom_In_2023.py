@@ -23,11 +23,11 @@ with open('style.css')as f:
 @st.cache()
 def get_data(query):
     if query == 'Daily_2023':
-        return pd.read_csv('Data\Domestic\Y23\Y23-Daily.csv')
+        return pd.read_csv('https://raw.githubusercontent.com/Kaizen-Step/Hollywood_Box_Office_Tragedy/main/Data/Domestic/Y23/Y23-Daily.csv')
     elif query == 'Weekly_2023':
-        return pd.read_csv('Data\Domestic\Y23\Y23-Weekly.csv')
+        return pd.read_csv('https://raw.githubusercontent.com/Kaizen-Step/Hollywood_Box_Office_Tragedy/main/Data/Domestic/Y23/Y23-Weekly.csv')
     elif query == 'daily_table':
-        return pd.read_csv('Data\Domestic\Y23\Y23-Daily2.csv')
+        return pd.read_csv('https://raw.githubusercontent.com/Kaizen-Step/Hollywood_Box_Office_Tragedy/main/Data/Domestic/Y23/Y23-Daily2.csv')
     return None
 
 

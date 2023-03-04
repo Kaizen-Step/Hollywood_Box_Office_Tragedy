@@ -22,11 +22,11 @@ with open('style.css')as f:
 @st.cache()
 def get_data(query):
     if query == 'Total_Genre':
-        return pd.read_csv('Data\Geners\Genre-Total.csv')
+        return pd.read_csv('https://raw.githubusercontent.com/Kaizen-Step/Hollywood_Box_Office_Tragedy/main/Data/Geners/Genre-Total.csv')
     elif query == 'Number_of_Release':
-        return pd.read_csv('Data\Geners\Genre-Total2.csv')
+        return pd.read_csv('https://raw.githubusercontent.com/Kaizen-Step/Hollywood_Box_Office_Tragedy/main/Data/Geners/Genre-Total2.csv')
     elif query == 'average_per_release':
-        return pd.read_csv('Data\Geners\Genre-Total3.csv')
+        return pd.read_csv('https://raw.githubusercontent.com/Kaizen-Step/Hollywood_Box_Office_Tragedy/main/Data/Geners/Genre-Total3.csv')
     return None
 
 

@@ -22,15 +22,15 @@ with open('style.css')as f:
 @st.cache()
 def get_data(query):
     if query == 'G_Rating':
-        return pd.read_csv('Data\MPA_Rating\G_MPAA_Rating.csv')
+        return pd.read_csv('https://raw.githubusercontent.com/Kaizen-Step/Hollywood_Box_Office_Tragedy/main/Data/MPA_Rating/G_MPAA_Rating.csv')
     elif query == 'PG_Rating':
-        return pd.read_csv('Data\MPA_Rating\PG_MPAA_Rating.csv')
+        return pd.read_csv('https://raw.githubusercontent.com/Kaizen-Step/Hollywood_Box_Office_Tragedy/main/Data/MPA_Rating/PG_MPAA_Rating.csv')
     elif query == 'PG_13_Rating':
-        return pd.read_csv('Data\MPA_Rating\PG_13_MPAA_Rating.csv')
+        return pd.read_csv('https://raw.githubusercontent.com/Kaizen-Step/Hollywood_Box_Office_Tragedy/main/Data/MPA_Rating/PG_13_MPAA_Rating.csv')
     elif query == 'R_Rating':
-        return pd.read_csv('Data\MPA_Rating\R_MPAA_Rating.csv')
+        return pd.read_csv('https://raw.githubusercontent.com/Kaizen-Step/Hollywood_Box_Office_Tragedy/main/Data/MPA_Rating/R_MPAA_Rating.csv')
     elif query == 'share_of_t':
-        return pd.read_csv('Data\MPA_Rating\Share_Total.csv')
+        return pd.read_csv('https://raw.githubusercontent.com/Kaizen-Step/Hollywood_Box_Office_Tragedy/main/Data/MPA_Rating/Share_Total.csv')
     return None
 
 

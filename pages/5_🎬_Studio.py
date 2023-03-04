@@ -22,11 +22,11 @@ with open('style.css')as f:
 @st.cache()
 def get_data(query):
     if query == 'Stuidis_Gross':
-        return pd.read_csv('Data\Studios\Studios.csv')
+        return pd.read_csv('https://raw.githubusercontent.com/Kaizen-Step/Hollywood_Box_Office_Tragedy/main/Data/Studios/Studios.csv')
     elif query == 'Number_of_Release':
-        return pd.read_csv('Data\Studios\Studios2.csv')
+        return pd.read_csv('https://raw.githubusercontent.com/Kaizen-Step/Hollywood_Box_Office_Tragedy/main/Data/Studios/Studios2.csv')
     elif query == 'average_per_release':
-        return pd.read_csv('Data\Studios\Studios3.csv')
+        return pd.read_csv('https://raw.githubusercontent.com/Kaizen-Step/Hollywood_Box_Office_Tragedy/main/Data/Studios/Studios3.csv')
     return None
 
 

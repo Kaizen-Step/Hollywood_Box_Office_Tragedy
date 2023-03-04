@@ -22,11 +22,11 @@ with open('style.css')as f:
 @st.cache()
 def get_data(query):
     if query == 'worldwide_Total_Gross':
-        return pd.read_csv('Data\All time\Worldwide.csv')
+        return pd.read_csv('https://raw.githubusercontent.com/Kaizen-Step/Hollywood_Box_Office_Tragedy/main/Data/All%20time/Worldwide.csv')
     elif query == 'Worldwide_Foreign':
-        return pd.read_csv('Data\All time\Worldwide2.csv')
+        return pd.read_csv('https://raw.githubusercontent.com/Kaizen-Step/Hollywood_Box_Office_Tragedy/main/Data/All%20time/Worldwide2.csv')
     elif query == 'worldwide_foreign_percent':
-        return pd.read_csv('Data\All time\Worldwide3.csv')
+        return pd.read_csv('https://raw.githubusercontent.com/Kaizen-Step/Hollywood_Box_Office_Tragedy/main/Data/All%20time/Worldwide3.csv')
     return None
 
 
