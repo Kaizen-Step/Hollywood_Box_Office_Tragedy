@@ -22,9 +22,9 @@ with open('style.css')as f:
 @st.cache()
 def get_data(query):
     if query == 'Domestic_Yearly':
-        return pd.read_csv('Data\Domestic\Domestic-Yearly.csv')
+        return pd.read_json('Data\Domestic\Domestic-Yearly.json')
     elif query == 'table':
-        return pd.read_csv('Data\Domestic\Domestic-Yearly2.csv')
+        return pd.read_json('Data\Domestic\Domestic-Yearly2.json')
     return None
 
 

@@ -1,0 +1,378 @@
+[
+ {
+   "Year": "year2023",
+   "Total Gross": "$1,064,225,380 ",
+   "%± LY": "0%",
+   "Releases": 127,
+   "Average": "$8,379,727 ",
+   "#1 Release": "Avatar: The Way of Water"
+ },
+ {
+   "Year": "year2022",
+   "Total Gross": "$7,368,878,393 ",
+   "%± LY": "64.40%",
+   "Releases": 495,
+   "Average": "$14,886,623 ",
+   "#1 Release": "Top Gun: Maverick"
+ },
+ {
+   "Year": "year2021",
+   "Total Gross": "$4,482,808,453 ",
+   "%± LY": "112.10%",
+   "Releases": 440,
+   "Average": "$10,188,201 ",
+   "#1 Release": "Spider-Man: No Way Home"
+ },
+ {
+   "Year": "year2020",
+   "Total Gross": "$2,113,846,800 ",
+   "%± LY": "-81.40%",
+   "Releases": 456,
+   "Average": "$4,635,628 ",
+   "#1 Release": "Bad Boys for Life"
+ },
+ {
+   "Year": "year2019",
+   "Total Gross": "$11,363,364,796 ",
+   "%± LY": "-4.40%",
+   "Releases": 910,
+   "Average": "$12,487,214 ",
+   "#1 Release": "Avengers: Endgame"
+ },
+ {
+   "Year": "year2018",
+   "Total Gross": "$11,892,160,011 ",
+   "%± LY": "7.40%",
+   "Releases": 993,
+   "Average": "$11,975,991 ",
+   "#1 Release": "Black Panther"
+ },
+ {
+   "Year": "year2017",
+   "Total Gross": "$11,075,387,520 ",
+   "%± LY": "-2.60%",
+   "Releases": 854,
+   "Average": "$12,968,837 ",
+   "#1 Release": "Star Wars: Episode VIII - The Last Jedi"
+ },
+ {
+   "Year": "year2016",
+   "Total Gross": "$11,375,225,455 ",
+   "%± LY": "2%",
+   "Releases": 855,
+   "Average": "$13,304,357 ",
+   "#1 Release": "Finding Dory"
+ },
+ {
+   "Year": "year2015",
+   "Total Gross": "$11,148,780,747 ",
+   "%± LY": "7.50%",
+   "Releases": 845,
+   "Average": "$13,193,823 ",
+   "#1 Release": "Jurassic World"
+ },
+ {
+   "Year": "year2014",
+   "Total Gross": "$10,368,861,849 ",
+   "%± LY": "-5.40%",
+   "Releases": 849,
+   "Average": "$12,213,029 ",
+   "#1 Release": "Guardians of the Galaxy"
+ },
+ {
+   "Year": "year2013",
+   "Total Gross": "$10,955,524,800 ",
+   "%± LY": "1%",
+   "Releases": 826,
+   "Average": "$13,263,347 ",
+   "#1 Release": "Iron Man 3"
+ },
+ {
+   "Year": "year2012",
+   "Total Gross": "$10,843,641,372 ",
+   "%± LY": "6.80%",
+   "Releases": 807,
+   "Average": "$13,436,978 ",
+   "#1 Release": "The Avengers"
+ },
+ {
+   "Year": "year2011",
+   "Total Gross": "$10,155,695,359 ",
+   "%± LY": "-4.10%",
+   "Releases": 731,
+   "Average": "$13,892,880 ",
+   "#1 Release": "Harry Potter and the Deathly Hallows: Part 2"
+ },
+ {
+   "Year": "year2010",
+   "Total Gross": "$10,585,388,159 ",
+   "%± LY": "-0.30%",
+   "Releases": 651,
+   "Average": "$16,260,196 ",
+   "#1 Release": "Avatar"
+ },
+ {
+   "Year": "year2009",
+   "Total Gross": "$10,615,886,283 ",
+   "%± LY": "10%",
+   "Releases": 646,
+   "Average": "$16,433,260 ",
+   "#1 Release": "Transformers: Revenge of the Fallen"
+ },
+ {
+   "Year": "year2008",
+   "Total Gross": "$9,652,648,585 ",
+   "%± LY": "-0.30%",
+   "Releases": 725,
+   "Average": "$13,313,998 ",
+   "#1 Release": "The Dark Knight"
+ },
+ {
+   "Year": "year2007",
+   "Total Gross": "$9,679,019,852 ",
+   "%± LY": "5.20%",
+   "Releases": 775,
+   "Average": "$12,489,057 ",
+   "#1 Release": "Spider-Man 3"
+ },
+ {
+   "Year": "year2006",
+   "Total Gross": "$9,203,041,941 ",
+   "%± LY": "4.20%",
+   "Releases": 746,
+   "Average": "$12,336,517 ",
+   "#1 Release": "Pirates of the Caribbean: Dead Man's Chest"
+ },
+ {
+   "Year": "year2005",
+   "Total Gross": "$8,833,618,311 ",
+   "%± LY": "-5.60%",
+   "Releases": 676,
+   "Average": "$13,067,482 ",
+   "#1 Release": "Star Wars: Episode III - Revenge of the Sith"
+ },
+ {
+   "Year": "year2004",
+   "Total Gross": "$9,354,636,012 ",
+   "%± LY": "1.30%",
+   "Releases": 700,
+   "Average": "$13,363,765 ",
+   "#1 Release": "Shrek 2"
+ },
+ {
+   "Year": "year2003",
+   "Total Gross": "$9,232,953,228 ",
+   "%± LY": "0.70%",
+   "Releases": 667,
+   "Average": "$13,842,508 ",
+   "#1 Release": "Finding Nemo"
+ },
+ {
+   "Year": "year2002",
+   "Total Gross": "$9,164,913,438 ",
+   "%± LY": "15.20%",
+   "Releases": 570,
+   "Average": "$16,078,795 ",
+   "#1 Release": "Spider-Man"
+ },
+ {
+   "Year": "year2001",
+   "Total Gross": "$7,959,296,828 ",
+   "%± LY": "6.50%",
+   "Releases": 412,
+   "Average": "$19,318,681 ",
+   "#1 Release": "Harry Potter and the Sorcerer's Stone"
+ },
+ {
+   "Year": "year2000",
+   "Total Gross": "$7,476,224,772 ",
+   "%± LY": "1.80%",
+   "Releases": 439,
+   "Average": "$17,030,124 ",
+   "#1 Release": "How the Grinch Stole Christmas"
+ },
+ {
+   "Year": "year1999",
+   "Total Gross": "$7,340,743,186 ",
+   "%± LY": "9.60%",
+   "Releases": 448,
+   "Average": "$16,385,587 ",
+   "#1 Release": "Star Wars: Episode I - The Phantom Menace"
+ },
+ {
+   "Year": "year1998",
+   "Total Gross": "$6,696,383,983 ",
+   "%± LY": "10.20%",
+   "Releases": 334,
+   "Average": "$20,049,053 ",
+   "#1 Release": "Titanic"
+ },
+ {
+   "Year": "year1997",
+   "Total Gross": "$6,077,250,085 ",
+   "%± LY": "8.50%",
+   "Releases": 310,
+   "Average": "$19,604,032 ",
+   "#1 Release": "Men in Black"
+ },
+ {
+   "Year": "year1996",
+   "Total Gross": "$5,600,750,973 ",
+   "%± LY": "9.70%",
+   "Releases": 306,
+   "Average": "$18,303,107 ",
+   "#1 Release": "Independence Day"
+ },
+ {
+   "Year": "year1995",
+   "Total Gross": "$5,106,129,264 ",
+   "%± LY": "0.90%",
+   "Releases": 291,
+   "Average": "$17,546,835 ",
+   "#1 Release": "Batman Forever"
+ },
+ {
+   "Year": "year1994",
+   "Total Gross": "$5,061,909,583 ",
+   "%± LY": "5%",
+   "Releases": 259,
+   "Average": "$19,544,052 ",
+   "#1 Release": "The Lion King"
+ },
+ {
+   "Year": "year1993",
+   "Total Gross": "$4,823,116,106 ",
+   "%± LY": "6.70%",
+   "Releases": 267,
+   "Average": "$18,064,105 ",
+   "#1 Release": "Jurassic Park"
+ },
+ {
+   "Year": "year1992",
+   "Total Gross": "$4,519,644,026 ",
+   "%± LY": "4.20%",
+   "Releases": 247,
+   "Average": "$18,298,153 ",
+   "#1 Release": "Batman Returns"
+ },
+ {
+   "Year": "year1991",
+   "Total Gross": "$4,336,073,530 ",
+   "%± LY": "0.20%",
+   "Releases": 253,
+   "Average": "$17,138,630 ",
+   "#1 Release": "Terminator 2: Judgment Day"
+ },
+ {
+   "Year": "year1990",
+   "Total Gross": "$4,326,824,577 ",
+   "%± LY": "5.90%",
+   "Releases": 236,
+   "Average": "$18,334,002 ",
+   "#1 Release": "Ghost"
+ },
+ {
+   "Year": "year1989",
+   "Total Gross": "$4,084,060,815 ",
+   "%± LY": "15.30%",
+   "Releases": 235,
+   "Average": "$17,378,982 ",
+   "#1 Release": "Batman"
+ },
+ {
+   "Year": "year1988",
+   "Total Gross": "$3,542,179,944 ",
+   "%± LY": "6%",
+   "Releases": 239,
+   "Average": "$14,820,836 ",
+   "#1 Release": "Who Framed Roger Rabbit"
+ },
+ {
+   "Year": "year1987",
+   "Total Gross": "$3,343,230,996 ",
+   "%± LY": "9.10%",
+   "Releases": 226,
+   "Average": "$14,793,057 ",
+   "#1 Release": "Beverly Hills Cop II"
+ },
+ {
+   "Year": "year1986",
+   "Total Gross": "$3,065,297,715 ",
+   "%± LY": "1.60%",
+   "Releases": 201,
+   "Average": "$15,250,237 ",
+   "#1 Release": "Top Gun"
+ },
+ {
+   "Year": "year1985",
+   "Total Gross": "$3,017,379,123 ",
+   "%± LY": "-1.60%",
+   "Releases": 191,
+   "Average": "$15,797,796 ",
+   "#1 Release": "Back to the Future"
+ },
+ {
+   "Year": "year1984",
+   "Total Gross": "$3,066,288,000 ",
+   "%± LY": "12%",
+   "Releases": 169,
+   "Average": "$18,143,715 ",
+   "#1 Release": "Ghostbusters"
+ },
+ {
+   "Year": "year1983",
+   "Total Gross": "$2,738,195,414 ",
+   "%± LY": "-8.80%",
+   "Releases": 149,
+   "Average": "$18,377,150 ",
+   "#1 Release": "Star Wars: Episode VI - Return of the Jedi"
+ },
+ {
+   "Year": "year1982",
+   "Total Gross": "$3,001,761,432 ",
+   "%± LY": "234%",
+   "Releases": 132,
+   "Average": "$22,740,616 ",
+   "#1 Release": "E.T. the Extra-Terrestrial"
+ },
+ {
+   "Year": "year1981",
+   "Total Gross": "$898,686,960 ",
+   "%± LY": "-45.30%",
+   "Releases": 56,
+   "Average": "$16,047,981 ",
+   "#1 Release": "Superman II"
+ },
+ {
+   "Year": "year1980",
+   "Total Gross": "$1,642,400,771 ",
+   "%± LY": "33.60%",
+   "Releases": 68,
+   "Average": "$24,152,952 ",
+   "#1 Release": "Star Wars: Episode V - The Empire Strikes Back"
+ },
+ {
+   "Year": "year1979",
+   "Total Gross": "$1,229,428,453 ",
+   "%± LY": "48.80%",
+   "Releases": 40,
+   "Average": "$30,735,711 ",
+   "#1 Release": "Superman"
+ },
+ {
+   "Year": "year1978",
+   "Total Gross": "$826,413,013 ",
+   "%± LY": "86.30%",
+   "Releases": 13,
+   "Average": "$63,570,231 ",
+   "#1 Release": "Grease"
+ },
+ {
+   "Year": "year1977",
+   "Total Gross": "$443,497,461 ",
+   "%± LY": "290.60%",
+   "Releases": 9,
+   "Average": "$49,277,495 ",
+   "#1 Release": "Star Wars: Episode IV - A New Hope"
+ }
+]
