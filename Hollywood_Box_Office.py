@@ -11,15 +11,19 @@ st.text(" \n")
 c1, c2, c3 = st.columns(3)
 
 
-with c3:
-    st.text(" \n")
-    st.text(" \n")
-    st.image(Image.open('Images/metricsstackedwhite.png'), width=250)
 with c1:
     st.text(" \n")
     st.text(" \n")
-    st.image(Image.open('Images/t6.png'), width=300)
+    st.image(Image.open('Images/joker3.jpg'))
 
+with c2:
+    st.text(" \n")
+    st.text(" \n")
+    st.image(Image.open('Images/fury.jpg'))
+with c3:
+    st.text(" \n")
+    st.text(" \n")
+    st.image(Image.open('Images/Avatar.jpg'))
 
 st.write("""
 ### Hollywood Movie Indsustry ###
@@ -39,28 +43,31 @@ The top online box office reporting and analysis service, Box Office Mojo by IMD
 st.write("""
 ## Methodology ##  
 
-Hollywood's box office revenues in North America have significantly decreased in 2020 as a result of the coronavirus epidemic closing cinemas and studios delaying the release of numerous new films. Moreover, some social scientists think that movies ,as a form of entertainment, are no longer the main topic of our cultural conversation.
-Off-chain This week, Bounty wants a thorough examination of the box office using Hollywood statistics. We search the Internet for a suitable data collection to examine the Hollywood box office over time using current data. Kaggle offers various data sets for this idea. We used two separate Kaggle data sets that were taken from various views on the Box Office Mojo website. For our investigation of Hollywood box office following the COVID-19 epidemic, we acquired this information and created our own data sets.
-After collecting and purifying the data, we started looking at the Hollywood box office since 2000 to get perspective and look for long-term trends. We then narrowed our attention to the Hollywood gross avenue following the COVID-19 outbreak to look for impact and remedies for this disaster. then look for a studio- and genre-specific cultural and economic analysis of Hollywood box office. After all, we want to provide a summary of how Hollywood has evolved and should change in order to improve its marketing strategy. Following this section, we shared Kaggle data sets containing IMDB Box Office Mojo scraped data. 
-
+Hollywood's box office revenues in North America have significantly decreased in 2020 as a result of the coronavirus epidemic closing cinemas and studios delaying the release of numerous new films. In addition to this, social scientists believe that movies ,as a form of entertainment, are no longer the main topic of our cultural conversation.  
+Although the issues are considered a catastrophe for the Hollywood industry, the story is far from over. We searched the internet for an appropriate data gathering technique to evaluate the Hollywood box office history using current data in order to better comprehend the problem and look for causes and solutions. For this concept, Kaggle offers a number of data sets, although some of them are outdated and others are poorly arranged. Several perspectives on the Box Office Mojo website were used on two distinct Kaggle data sets. We collected this data for our research into Hollywood box office after the COVID-19 outbreak, developed our own data sets based on IMDB box office mojo categorization, then updated the material that was lacking from the IMDB box office mojo website.
+After collecting and purifying the data, we started looking at the Hollywood box office since 2000 to get perspective and look for long-term trends. We then narrowed our attention to the Hollywood gross avenue following the COVID-19 outbreak to look for impact and remedies for this disaster.then examine the market's leading studios and genres, as well as the cultural and economic effects they have. The final sections examine MPA ratings and overseas gross sales. At conclusion, we made an effort to summarize how Hollywood has changed and it might change in order to improve its marketing strategy and turn this tragedy into a happy ending drama. Following this, we shared Kaggle data sets with IMDB Box Office Mojo scraped data(from May 1973 to February 2023).
 """)
+
+
 st.text(" \n")
 st.write("""   
 #### Sources ####  """)
 st.write("""    1.https://en.wikipedia.org/wiki/Cinema_of_the_United_States#Hollywood   
-        2.https://en.wikipedia.org/wiki/Box_office#cite_note-1)  
-        3.https://help.imdb.com/article/imdbpro/industry-research/box-office-mojo-by-imdbpro-faq/GCWTV4MQKGWRAUAP?ref_=mojo_ftr_help#  
-              """)
+        2.https://en.wikipedia.org/wiki/Box_office#cite_note-1   
+        3.https://www.boxofficemojo.com/
+            """)
+
+
 st.text(" \n")
 c1, c2 = st.columns(2)
 with c1:
     st.info(
-        '**Twitter:  [Ludwig.1989](https://flipsidecrypto.xyz/)**', icon="🦉")
+        '**Twitter:  [Ludwig.1989](https://flipsidecrypto.xyz/)**', icon="🕊️")
     st.info(
         '**Data Set (1):  [IMDB Box office Mojo (Kaggle)](https://www.kaggle.com/code/jonbown/box-office-mojo-web-scraping-with-python)**', icon="🧠")
 
 with c2:
     st.info(
-        '**Project Github:  [Hollywood Box Office](https://github.com/Kaizen-Step/The_Whales_of_Near)**', icon="💻")
+        '**Project Github:  [Hollywood Box Office](https://github.com/Kaizen-Step/Hollywood_Box_Office_Tragedy)**', icon="💻")
     st.info(
         '**Data Set (2):  [IMDB Box office Mojo (Kaggle)](https://www.kaggle.com/datasets/thedevastator/hollywood-movies-domestic-lifetime-gross-and-ran?resource=download)**', icon="🧠")
