@@ -14,7 +14,8 @@ c1, c2, c3 = st.columns(3)
 with c1:
     st.text(" \n")
     st.text(" \n")
-    st.image(Image.open('Images/Avatar.jpg'))
+    st.image(Image.open('Images/joker7.jpg'))
+
 with c2:
     st.text(" \n")
     st.text(" \n")
@@ -22,7 +23,7 @@ with c2:
 with c3:
     st.text(" \n")
     st.text(" \n")
-    st.image(Image.open('Images/joker3.jpg'))
+    st.image(Image.open('Images/Avatar.jpg'))
 
 
 st.write("""
