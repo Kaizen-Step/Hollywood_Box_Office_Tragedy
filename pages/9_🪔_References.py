@@ -53,7 +53,9 @@ st.write("""
         5.https://www.enterpriseappstoday.com/stats/film-industry-statistics.html#:~:text=In%20the%20year%202023%2C%20the,States%20of%20America%20is%203.3%25       
         6.https://en.wikipedia.org/wiki/Film_genre  
         7.https://en.wikipedia.org/wiki/Major_film_studios   
-        8.https://en.wikipedia.org/wiki/Motion_Picture_Association_film_rating_system   
+        8.https://en.wikipedia.org/wiki/Motion_Picture_Association_film_rating_system        
+        9.https://medium.com/ipg-media-lab/movies-no-longer-occupy-the-center-of-pop-culture-can-hollywood-stage-a-comeback-1a79600a5648    
+        10.https://www.boxofficemojo.com/   
     
 
 """)

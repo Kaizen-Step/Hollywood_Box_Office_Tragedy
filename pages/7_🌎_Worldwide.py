@@ -42,7 +42,7 @@ df2 = Worldwide_Foreign
 #################################################################################################
 st.write(""" ### Domestic and Worldwide Box Office ##  """)
 
-st.write(""" The term "Domestic" in this Dashboard refers to gross box office receipts from North America (the U.S. and Canada), while the term "Foreign" refers to the rest of the world. and the sum of these two phrases is "Worldwide".
+st.write(""" The term "Domestic" in this Dashboard refers to gross box office receipts from North America (the U.S. and Canada), while the term "Foreign" refers to the rest of the world. and the sum of these two values is "Worldwide".
   """)
 
 
